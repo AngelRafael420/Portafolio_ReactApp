@@ -27,12 +27,12 @@ Introduciré una breve definición de quien soy y que hago y también mis redes 
 Investigue por mi parte los recursos que puedo utilizar estos son:
 RECURSOS:
 
-1) Cover video
-2) Imagen About
-3) Roboto Tag
-4) React-Carousel Documentacion
-5) Imágenes portfolio
-6) Font-Awesome CDN
+1. Cover video
+2. Imagen About
+3. Roboto Tag
+4. React-Carousel Documentacion
+5. Imágenes portfolio
+6. Font-Awesome CDN
 
 Herramientas y Recursos:
 
@@ -59,5 +59,7 @@ By: Angel Marte
 Para más información:
 
 Gmail: asarmientomarte@gmail.com
+
 Outlook: 202010085@itla.edu.do
+
 Telegram: <https://t.me/angelrafael420_2>

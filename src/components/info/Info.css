@@ -1,0 +1,14 @@
+.info-container {
+  width: 100%;
+  background-color: white;
+  color: black;
+  margin-bottom: 99vh;
+  height: 300px;
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
