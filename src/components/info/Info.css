@@ -12,3 +12,15 @@
   align-items: center;
   height: 100%;
 }
+
+@media only screen and (max-width: 950px) {
+  .info-container {
+    height: 200px;
+    width: 100px;
+  }
+
+  .info > h1 {
+    text-align: center;
+    font-size: 23px;
+  }
+}
