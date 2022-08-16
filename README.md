@@ -6,9 +6,9 @@ Imagenes del Portafolio:
 
 ![Alt text](src/media/Captura1.jpeg "Inicio del portal comenzando")
 
-![Alt text](src/media/CapturaMovil67%25.JPG "Al final presenta mis redes sociales y el "By" ")
+![Alt text](src/media/final1.png "Al final presenta mis redes sociales y el 'by' ")
 
-![Alt text](src/media/CapturaMovil70%25.JPG "Final del porfolio")
+![Alt text](src/media/CapturaMovil70%25.JPG "Medio del porfolio modo Smartphone, tambien donde dice Angel Rafael 'Home' si damos click ahi nos redireciona a la pagina principal como se puede ven en primera imagen ")
 
 <https://github.com/AngelRafael420/NewPortafolio>
 
