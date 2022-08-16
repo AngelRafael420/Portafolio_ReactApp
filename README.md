@@ -1,8 +1,8 @@
 # Portafolio React (2022 Agosto)
 
-Hola soy Angel Marte(2020-10085) estudiante del itla y esta es un projecto final de la materia de Programacion Web del docente Raydelto Hernandez
+Hola soy Angel Marte, estudiante del itla y esta es un projecto final de la materia de Programacion Web del docente Raydelto Hernandez
 
-Imagenes del Portafolio
+Imagenes del Portafolio:
 
 ![Alt text](src/media/Captura1.jpeg "Inicio del portal comenzando")
 
@@ -47,6 +47,7 @@ Roboto Tag
 React-Carousel Documentacion
 
 <https://www.npmjs.com/package/@brainhubeu/react-carousel>
+
 <https://brainhubeu.github.io/react-carousel/docs/examples/multipleSlides>
 
 Font-Awesome CDN
@@ -59,4 +60,4 @@ Para más información:
 
 Gmail: asarmientomarte@gmail.com
 Outlook: 202010085@itla.edu.do
-<https://t.me/angelrafael420_2>
+Telegram: <https://t.me/angelrafael420_2>
