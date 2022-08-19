@@ -22,7 +22,7 @@
   cursor: pointer;
 }
 
-.slider-container > img {
+/* .slider-container > img {
   object-fit: contain;
   transition: all 0.2s ease-in-out;
 }
@@ -30,6 +30,22 @@
 .slide-container:hover > img {
   transform: scale(1.2);
   opacity: 0.9;
+} */
+
+
+/* Este evento marca las propiedades que debe de tener la imagine de forma inicial */
+.slide-container>img {
+  transform: scale(1);
+  opacity: 0.9;
+  transition: all 0.5s;
+}
+
+
+/* Este evento marca la configuracion que debe de tener la imagen cuando se le pasa la imagen por arriba */
+.slide-container:hover>img {
+  transform: scale(1.2);
+  opacity: 0.9;
+  transition: all 0.5s;
 }
 
 .slide-desc {
